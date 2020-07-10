@@ -1,1 +1,1 @@
-web: bin/medods
+web: bin/auth
